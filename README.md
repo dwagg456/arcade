@@ -12,3 +12,8 @@ Installation:
 
 - To play this game on your computer, download all of the folders/files and load index.html into a browser window.
 - To play this game on the web, simply access the game page at dwagg456.github.io/arcade/.
+
+Resources:
+
+www.w3schools.com/tags/canvas_measuretext.asp
+fahdshariff.blogspot.com/2011/06/html5-adding-links-to-canvas.html
